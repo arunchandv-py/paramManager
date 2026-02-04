@@ -2,7 +2,7 @@
   "name": "crew-pairing-rule-configurator",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://[YOUR_GITHUB_USERNAME].github.io/crew-pairing-rule-configurator",
+  "homepage": ".",
   "dependencies": {
     "@types/node": "^16.18.0",
     "@types/react": "^18.0.28",
